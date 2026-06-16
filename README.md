@@ -9,9 +9,9 @@ Explora Tours El Salvador es un sitio web desarrollado para promocionar destinos
 | Integrante | Rol |
 |------------|------|
 | Justin Josué Gálvez Pérez | Coordinador del repositorio |
-| Integrante 2 | Desarrollador HTML |
-| Integrante 3 | Diseñador CSS / Bootstrap |
-| Integrante 4 | Desarrollador JavaScript / QA |
+| Diego Adalberto García Rivas | Desarrollador HTML |
+| Christopher Neftalí López Badío | Diseñador CSS / Bootstrap |
+| Deylin Odalis López Martínez | Desarrollador JavaScript / QA |
 
 ## Tecnologías utilizadas
 
